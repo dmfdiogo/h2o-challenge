@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diogo\\source\\repos\\H2O\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\dataaccess\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\dataaccess\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\dtos\\reqlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\dtos\\reqlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\dtos\\reqcreatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\dtos\\reqcreatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|c:\\users\\diogo\\source\\repos\\h2o\\bankapi\\bankapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{14EBD203-4B8E-4A3F-9B54-EE7BD43CDB74}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\bankapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Program.cs",
+              "RelativeToolTip": "BankAPI\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:57:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:54:13.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:52:16.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:52:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\AccountService.cs",
+              "RelativeToolTip": "BankAPI\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:51:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "BankAPI\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:50:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "BankAPI\\Services\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:59:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\IAccountService.cs",
+              "RelativeToolTip": "BankAPI\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:03:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "BankAPI\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:59:11.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\TransactionService.cs",
+              "RelativeToolTip": "BankAPI\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:50:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "BankAPI\\Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:50:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\DataAccess\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "BankAPI\\DataAccess\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\DataAccess\\IAccountRepository.cs",
+              "RelativeToolTip": "BankAPI\\DataAccess\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:50:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReqCreateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\DTOs\\ReqCreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "BankAPI\\DTOs\\ReqCreateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\DTOs\\ReqCreateCustomerDto.cs",
+              "RelativeToolTip": "BankAPI\\DTOs\\ReqCreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:19:21.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReqLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\DTOs\\ReqLoginDto.cs",
+              "RelativeDocumentMoniker": "BankAPI\\DTOs\\ReqLoginDto.cs",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\DTOs\\ReqLoginDto.cs",
+              "RelativeToolTip": "BankAPI\\DTOs\\ReqLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:19:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BankAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BankAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T14:06:30.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankAPI.http",
+              "DocumentMoniker": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\BankAPI.http",
+              "RelativeDocumentMoniker": "BankAPI\\BankAPI.http",
+              "ToolTip": "C:\\Users\\Diogo\\source\\repos\\H2O\\BankAPI\\BankAPI.http",
+              "RelativeToolTip": "BankAPI\\BankAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T14:06:23.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
